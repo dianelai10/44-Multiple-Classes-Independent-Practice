@@ -1,0 +1,37 @@
+.small-height {
+    height: 200px;
+}
+
+.small-width {
+    width: 200px;
+}
+
+.green-frame {
+    border: 5px ;
+    padding: 10px;
+}
+
+.black-frame {
+    border: 5px solid black;
+    padding: 10px;
+}
+
+.pink-frame {
+    border: 8px double #E4A4EE;
+    padding: 6px;
+}
+
+.circle {
+    border-radius: 50%;
+}
+
+
+img {
+    margin: 20px;
+}
+
+div {
+    padding: 20px;
+    display:flex;
+}
+body{background-color: pink;}
